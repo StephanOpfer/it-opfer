@@ -4,9 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-Publications
-2021
-
 Opfer, Stephan: Symbolic Representation of Dynamic Knowledge for Robotic Teams. PhD Thesis, University of Kassel, Germany, 2021 URL
 2020
 
@@ -32,9 +29,6 @@ Niemczyk, Stefan ; Opfer, Stephan ; Fredivianus, Nugroho ; Geihs, Kurt: ICE – 
 
 Opfer, Stephan; Niemczyk, Stefan ; Geihs, Kurt: Multi-Agent Plan Verification with Answer Set Programming. In: Proceedings of the Third Workshop on Model-Driven Robot Software Engineering (MORSE16). Leipzig, Germany : ACM, 2016 PDF
 2015
-
-No publications in 2015 🙁
-2014
 
 Witsch, Andreas ; Opfer, Stephan ; Geihs, Kurt: A Formal Multi-Agent Language for Cooperative Autonomous Driving Scenarios. In: International Conference on Connected Vehicles & Expo (ICCVE 2014). Vienna, Austria, 2014 PDF
 
