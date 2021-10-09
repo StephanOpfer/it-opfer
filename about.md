@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Stephan Opfer. I have PhD in Computer Science and work as a Senior Software Developer at [Micromata](https://www.micromata.de).
+Hi, my name is Stephan Opfer. I am a computer scientist and software engineer working at [Micromata](https://www.micromata.de). I have ~14 years of experience in the area of robotics and artificial intelligence and recently finished my PhD. Afterwards, I switched from robotics to web-based applications, in order to broaden my knowledge about big-data and cloud technologies.
 
 # Projects
 
